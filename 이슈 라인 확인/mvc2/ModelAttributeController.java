@@ -1,4 +1,4 @@
-package com.springapp.mvc;
+package com.springapp.mvc2;
 
 import com.springapp.dao.User;
 import org.springframework.beans.factory.annotation.Autowired;
